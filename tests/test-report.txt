@@ -1,0 +1,26 @@
+ℹ Testing VedicDateTime
+✔ | F W S  OK | Context
+✔ |         1 | ahargana
+✔ |         1 | gregorian_to_jd
+✔ |         1 | jd_to_gregorian
+✔ |         1 | karana
+✔ |         1 | lagna
+✔ |         1 | masa
+✔ |         2 | moon_longtitude
+✔ |         1 | moonrise
+✔ |         1 | moonset
+✔ |         2 | nakshatra
+✔ |         1 | rashi
+✔ |         1 | ritu
+✔ |         1 | samvatsara
+✔ |         1 | sun_longtitude
+✔ |         1 | sunrise
+✔ |         1 | sunset
+✔ |         2 | tithi
+✔ |         1 | vaara
+✔ |         2 | yoga
+
+══ Results ═════════════════════════════════════════════════════════════════════════════════════════════════
+Duration: 1.1 s
+
+[ FAIL 0 | WARN 0 | SKIP 0 | PASS 23 ]
