@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_karana_name
 #' @description Get name(s) of the Karana for given Julian day number and place.

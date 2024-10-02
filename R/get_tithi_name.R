@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_tithi_name
 #' @description Get name(s) of the Tithi for given Julian day number and place.

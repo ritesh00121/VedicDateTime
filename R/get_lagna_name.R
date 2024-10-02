@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_lagna_name
 #' @description Get name of the Lagna for given Julian day number.

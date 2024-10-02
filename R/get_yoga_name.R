@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_yoga_name
 #' @description Get name(s) of the Yoga for given Julian day number and place.

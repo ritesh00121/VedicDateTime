@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_masa_name
 #' @description Get name of the Masa for given Julian day number and place.

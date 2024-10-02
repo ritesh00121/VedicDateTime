@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_vaara_name
 #' @description Get name of the Vaara for given Julian day number.

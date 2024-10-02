@@ -8,6 +8,8 @@
 #' @examples
 #' ahargana(2459778)
 #' ahargana(swephR::swe_julday(2022,7,14,0,swephR::SE$GREG_CAL))
+# api.R
+library(plumber)
 ahargana <- function(jd){
   return (jd - 588465.5)
 }

@@ -1,3 +1,5 @@
+# api.R
+library(plumber)
 # ---------------------------------------------------------------------------- #
 #' get_nakshatra_name
 #' @description Get name(s) of the Nakshatra for given Julian day number and place.
