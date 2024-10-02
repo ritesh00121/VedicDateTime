@@ -42,4 +42,4 @@ function(jd, place) {
 # ---------------------------------------------------------------------------- #
 
 # Run the API with plumber
-# plumber::pr() %>% plumber::pr_run(port = 8000)  # Uncomment to run locally
+plumber::pr() %>% plumber::pr_run(port = 8000)  # Uncomment to run locally
