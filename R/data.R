@@ -4,18 +4,18 @@ library(plumber)
 #' masas
 #' @description Lunar month in the Vedic calendar system
 masas <- c(
-  "Chaitra",
-  "Vaishakha",
-  "Jyeshtha",
-  "Ashada",
-  "Shravana",
-  "Bhadrapada",
-  "Ashvija",
-  "Kartika",
-  "Margashira",
-  "Pushya",
-  "Maagha",
-  "Phalguna"
+"वैशाख", 
+"जेष्ठ", 
+"आषाढ़", 
+"श्रावण", 
+"भाद्र", 
+"आश्विन", 
+"कार्तिक", 
+"मंसिर", 
+"पौष", 
+"माघ", 
+"फागुन", 
+"चैत्र"
 )
 
 # ---------------------------------------------------------------------------- #
